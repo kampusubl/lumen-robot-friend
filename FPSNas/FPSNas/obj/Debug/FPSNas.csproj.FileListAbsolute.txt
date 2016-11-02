@@ -1,0 +1,9 @@
+c:\users\ari\documents\visual studio 2015\Projects\FPSNas\FPSNas\bin\Debug\FPSNas.exe.config
+c:\users\ari\documents\visual studio 2015\Projects\FPSNas\FPSNas\bin\Debug\FPSNas.exe
+c:\users\ari\documents\visual studio 2015\Projects\FPSNas\FPSNas\bin\Debug\FPSNas.pdb
+c:\users\ari\documents\visual studio 2015\Projects\FPSNas\FPSNas\obj\Debug\FPSNas.csprojResolveAssemblyReference.cache
+c:\users\ari\documents\visual studio 2015\Projects\FPSNas\FPSNas\obj\Debug\FPSNas.Form1.resources
+c:\users\ari\documents\visual studio 2015\Projects\FPSNas\FPSNas\obj\Debug\FPSNas.Properties.Resources.resources
+c:\users\ari\documents\visual studio 2015\Projects\FPSNas\FPSNas\obj\Debug\FPSNas.csproj.GenerateResource.Cache
+c:\users\ari\documents\visual studio 2015\Projects\FPSNas\FPSNas\obj\Debug\FPSNas.exe
+c:\users\ari\documents\visual studio 2015\Projects\FPSNas\FPSNas\obj\Debug\FPSNas.pdb
